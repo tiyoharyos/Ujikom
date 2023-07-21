@@ -16,7 +16,7 @@
 		  <a class="navbar-brand" href="#">UNIBOOKSTORE</a>
 		 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 		   <div class="navbar-nav ms-auto">
-		   <a class="nav-link active" aria-current="page" href="../index.php">Home</a>
+		   <a class="nav-link active" aria-current="page" href="../home.php">Home</a>
        <a class="nav-link active" aria-current="page" href="../admin/admin.php">Admin</a>
        <a class="nav-link active" aria-current="page" href="pengadaan.php">Pengadaan</a>
 		   </div>
