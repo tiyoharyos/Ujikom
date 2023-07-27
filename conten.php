@@ -17,3 +17,6 @@ elseif ($_GET['module'] == 'Pengadaan') {
 elseif ($_GET['module'] == 'Buku') {
     include "views/admin/crud_buku/buku.php";
 }
+elseif ($_GET['module'] == 'Edit_Data_Buku') {
+    include "views/admin/crud_buku/buku_edit.php";
+}
